@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "program": {
+    "name": "Ampixa Language Toolkits",
+    "target_language_count": 44,
+    "registered_toolkit_count": 6
+  },
+  "toolkits": [
+    {
+      "id": "nepali",
+      "name": "Nepali",
+      "iso_639_3": ["nep"],
+      "scripts": ["Devanagari"],
+      "canonical_repository": "https://github.com/Ampixa/nepa-newa-text-frontend",
+      "repository_visibility": "public",
+      "public_entrypoint": "https://github.com/Ampixa/nepa-newa-text-frontend",
+      "components": {"frontend": "implemented", "evaluation": "implemented", "tts": "demonstrated"}
+    },
+    {
+      "id": "limbu",
+      "name": "Limbu",
+      "iso_639_3": ["lif"],
+      "scripts": ["Sirijanga", "Devanagari"],
+      "canonical_repository": "https://github.com/Ampixa/limbu-speech-toolkit",
+      "repository_visibility": "private",
+      "public_entrypoint": "https://huggingface.co/spaces/voidash/slt-650-reviewer-artifact/tree/main/downloads/slt650_source/languages/limbu",
+      "components": {"frontend": "implemented", "evaluation": "implemented", "tts": "demonstrated"}
+    },
+    {
+      "id": "magar",
+      "name": "Magar Dhut",
+      "iso_639_3": ["mgp", "mrd"],
+      "scripts": ["Devanagari"],
+      "canonical_repository": "https://github.com/Ampixa/magar-speech-toolkit",
+      "repository_visibility": "private",
+      "public_entrypoint": "https://huggingface.co/spaces/voidash/slt-650-reviewer-artifact/tree/main/downloads/slt650_source/languages/magar",
+      "components": {"frontend": "implemented", "evaluation": "implemented", "tts": "demonstrated"}
+    },
+    {
+      "id": "bantawa",
+      "name": "Bantawa",
+      "iso_639_3": ["bap"],
+      "scripts": ["Devanagari"],
+      "canonical_repository": "https://github.com/Ampixa/rai-speech-toolkit",
+      "repository_visibility": "private",
+      "public_entrypoint": "https://huggingface.co/spaces/voidash/slt-650-reviewer-artifact/tree/main/downloads/slt650_source/languages/bantawa",
+      "components": {"frontend": "implemented", "evaluation": "implemented", "tts": "demonstrated"}
+    },
+    {
+      "id": "gurung",
+      "name": "Gurung",
+      "iso_639_3": ["gvr"],
+      "scripts": ["Devanagari"],
+      "canonical_repository": "https://github.com/Ampixa/gurung-speech-toolkit",
+      "repository_visibility": "private",
+      "public_entrypoint": "https://huggingface.co/spaces/voidash/slt-650-reviewer-artifact/tree/main/downloads/slt650_source/languages/gurung",
+      "components": {"frontend": "implemented", "evaluation": "implemented", "tts": "demonstrated"}
+    },
+    {
+      "id": "dhimal",
+      "name": "Dhimal",
+      "iso_639_3": ["dhi"],
+      "scripts": ["Devanagari"],
+      "canonical_repository": "https://github.com/Ampixa/dhimal-speech-toolkit",
+      "repository_visibility": "public",
+      "public_entrypoint": "https://github.com/Ampixa/dhimal-speech-toolkit",
+      "components": {"frontend": "implemented", "evaluation": "implemented", "tts": "demonstrated"}
+    }
+  ]
+}
