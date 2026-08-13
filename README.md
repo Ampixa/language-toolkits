@@ -18,10 +18,10 @@ registry, readiness stages, evaluation contract, and links to runnable evidence.
 | Toolkit | ISO 639-3 | Frontend | TTS | Public entry point |
 | --- | --- | --- | --- | --- |
 | Nepali | `nep` | implemented | demonstrated | [source](https://github.com/Ampixa/nepa-newa-text-frontend) |
-| Limbu | `lif` | implemented | demonstrated | [reviewer source](https://huggingface.co/spaces/voidash/slt-650-reviewer-artifact/tree/main/downloads/slt650_source/languages/limbu) |
-| Magar | `mgp`, `mrd` | implemented | demonstrated | [reviewer source](https://huggingface.co/spaces/voidash/slt-650-reviewer-artifact/tree/main/downloads/slt650_source/languages/magar) |
-| Bantawa | `bap` | implemented | demonstrated | [reviewer source](https://huggingface.co/spaces/voidash/slt-650-reviewer-artifact/tree/main/downloads/slt650_source/languages/bantawa) |
-| Gurung | `gvr` | implemented | demonstrated | [reviewer source](https://huggingface.co/spaces/voidash/slt-650-reviewer-artifact/tree/main/downloads/slt650_source/languages/gurung) |
+| Limbu | `lif` | implemented | demonstrated | [reviewer source archive](https://huggingface.co/spaces/voidash/slt-650-reviewer-artifact/resolve/main/downloads/slt650_training_inference_source.zip) |
+| Magar | `mgp`, `mrd` | implemented | demonstrated | [reviewer source archive](https://huggingface.co/spaces/voidash/slt-650-reviewer-artifact/resolve/main/downloads/slt650_training_inference_source.zip) |
+| Bantawa | `bap` | implemented | demonstrated | [reviewer source archive](https://huggingface.co/spaces/voidash/slt-650-reviewer-artifact/resolve/main/downloads/slt650_training_inference_source.zip) |
+| Gurung | `gvr` | implemented | demonstrated | [reviewer source archive](https://huggingface.co/spaces/voidash/slt-650-reviewer-artifact/resolve/main/downloads/slt650_training_inference_source.zip) |
 | Dhimal | `dhi` | implemented | demonstrated | [source](https://github.com/Ampixa/dhimal-speech-toolkit) |
 
 Runnable evidence and fixed examples are collected in the

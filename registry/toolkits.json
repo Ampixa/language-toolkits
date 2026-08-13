@@ -23,7 +23,7 @@
       "scripts": ["Sirijanga", "Devanagari"],
       "canonical_repository": "https://github.com/Ampixa/limbu-speech-toolkit",
       "repository_visibility": "private",
-      "public_entrypoint": "https://huggingface.co/spaces/voidash/slt-650-reviewer-artifact/tree/main/downloads/slt650_source/languages/limbu",
+      "public_entrypoint": "https://huggingface.co/spaces/voidash/slt-650-reviewer-artifact/resolve/main/downloads/slt650_training_inference_source.zip",
       "components": {"frontend": "implemented", "evaluation": "implemented", "tts": "demonstrated"}
     },
     {
@@ -33,7 +33,7 @@
       "scripts": ["Devanagari"],
       "canonical_repository": "https://github.com/Ampixa/magar-speech-toolkit",
       "repository_visibility": "private",
-      "public_entrypoint": "https://huggingface.co/spaces/voidash/slt-650-reviewer-artifact/tree/main/downloads/slt650_source/languages/magar",
+      "public_entrypoint": "https://huggingface.co/spaces/voidash/slt-650-reviewer-artifact/resolve/main/downloads/slt650_training_inference_source.zip",
       "components": {"frontend": "implemented", "evaluation": "implemented", "tts": "demonstrated"}
     },
     {
@@ -43,7 +43,7 @@
       "scripts": ["Devanagari"],
       "canonical_repository": "https://github.com/Ampixa/rai-speech-toolkit",
       "repository_visibility": "private",
-      "public_entrypoint": "https://huggingface.co/spaces/voidash/slt-650-reviewer-artifact/tree/main/downloads/slt650_source/languages/bantawa",
+      "public_entrypoint": "https://huggingface.co/spaces/voidash/slt-650-reviewer-artifact/resolve/main/downloads/slt650_training_inference_source.zip",
       "components": {"frontend": "implemented", "evaluation": "implemented", "tts": "demonstrated"}
     },
     {
@@ -53,7 +53,7 @@
       "scripts": ["Devanagari"],
       "canonical_repository": "https://github.com/Ampixa/gurung-speech-toolkit",
       "repository_visibility": "private",
-      "public_entrypoint": "https://huggingface.co/spaces/voidash/slt-650-reviewer-artifact/tree/main/downloads/slt650_source/languages/gurung",
+      "public_entrypoint": "https://huggingface.co/spaces/voidash/slt-650-reviewer-artifact/resolve/main/downloads/slt650_training_inference_source.zip",
       "components": {"frontend": "implemented", "evaluation": "implemented", "tts": "demonstrated"}
     },
     {
